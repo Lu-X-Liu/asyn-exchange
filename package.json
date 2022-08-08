@@ -1,0 +1,22 @@
+{
+  "name": "asyn-exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lu-X-Liu/asyn-exchange.git"
+  },
+  "author": "Xiao Lu Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lu-X-Liu/asyn-exchange/issues"
+  },
+  "homepage": "https://github.com/Lu-X-Liu/asyn-exchange#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
